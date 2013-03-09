@@ -48,11 +48,7 @@ def total(card)
     when "Ace"
       a += 1
       t += 1
-    when "Jack"
-      t += 10
-    when "Queen"
-      t += 10
-    when "King"
+    when "Jack", "Queen", "King"
       t += 10
     else
       t += val.to_i

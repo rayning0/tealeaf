@@ -1,0 +1,411 @@
+new-host:hw user$ ruby blackjack2.rb
+Welcome to Blackjack! What's your name?
+Raymond
+
+Dealing...There are now 48 cards in the deck.
+Dealer's card 2: 7 of Diamonds
+-----Your cards-----
+Raymond's card 1: 3 of Spades
+Raymond's card 2: Jack of Spades
+Raymond's total: 13  
+What will you do, Raymond? 1) Hit 2) Stay
+1
+There are now 47 cards in the deck.
+You drew card 3: Queen of Spades
+Raymond's total: 23  
+Raymond BUSTED!!!
+Dealer won!
+You've won/tied 0 out of 1 games.
+Play again, Raymond? (y/n)
+y
+
+Dealing...There are now 43 cards in the deck.
+Dealer's card 2: 4 of Diamonds
+-----Your cards-----
+Raymond's card 1: King of Clubs
+Raymond's card 2: Ace of Diamonds
+Raymond's total: 11  or 21
+
+What will you do, Raymond? 1) Hit 2) Stay
+2
+
+**** BLACKJACK! Raymond WINS! ****
+You've won/tied 1 out of 2 games.
+Play again, Raymond? (y/n)
+y
+
+Dealing...There are now 39 cards in the deck.
+Dealer's card 2: 4 of Hearts
+-----Your cards-----
+Raymond's card 1: 5 of Hearts
+Raymond's card 2: 10 of Clubs
+Raymond's total: 15  
+What will you do, Raymond? 1) Hit 2) Stay
+2
+Dealer's total: 14  
+Dealer's turn
+-----Dealer's cards-----
+Dealer's card 1: King of Spades
+Dealer's card 2: 4 of Hearts
+
+Dealer's card 3: 10 of Hearts
+Dealer's total: 24  
+Dealer BUSTED!!!
+You win!
+You've won/tied 2 out of 3 games.
+Play again, Raymond? (y/n)
+y
+
+Dealing...There are now 34 cards in the deck.
+Dealer's card 2: Jack of Diamonds
+-----Your cards-----
+Raymond's card 1: 9 of Hearts
+Raymond's card 2: 2 of Hearts
+Raymond's total: 11  
+What will you do, Raymond? 1) Hit 2) Stay
+1
+There are now 33 cards in the deck.
+You drew card 3: Queen of Clubs
+Raymond's total: 21  
+**** BLACKJACK! Raymond WINS! ****
+You've won/tied 3 out of 4 games.
+Play again, Raymond? (y/n)
+y
+
+Dealing...There are now 29 cards in the deck.
+Dealer's card 2: 7 of Clubs
+-----Your cards-----
+Raymond's card 1: 3 of Diamonds
+Raymond's card 2: 2 of Spades
+Raymond's total: 5  
+What will you do, Raymond? 1) Hit 2) Stay
+1
+There are now 28 cards in the deck.
+You drew card 3: 10 of Diamonds
+Raymond's total: 15  
+What will you do, Raymond? 1) Hit 2) Stay
+1
+There are now 27 cards in the deck.
+You drew card 4: 6 of Spades
+Raymond's total: 21  
+**** BLACKJACK! Raymond WINS! ****
+You've won/tied 4 out of 5 games.
+Play again, Raymond? (y/n)
+y
+
+Dealing...There are now 23 cards in the deck.
+Dealer's card 2: King of Hearts
+-----Your cards-----
+Raymond's card 1: 10 of Spades
+Raymond's card 2: 6 of Clubs
+Raymond's total: 16  
+What will you do, Raymond? 1) Hit 2) Stay
+1
+There are now 22 cards in the deck.
+You drew card 3: 9 of Spades
+Raymond's total: 25  
+Raymond BUSTED!!!
+Dealer won!
+You've won/tied 4 out of 6 games.
+Play again, Raymond? (y/n)
+y
+
+Dealing...There are now 18 cards in the deck.
+Dealer's card 2: 5 of Clubs
+-----Your cards-----
+Raymond's card 1: 8 of Clubs
+Raymond's card 2: 8 of Spades
+Raymond's total: 16  
+What will you do, Raymond? 1) Hit 2) Stay
+2
+Dealer's total: 14  
+Dealer's turn
+-----Dealer's cards-----
+Dealer's card 1: 9 of Diamonds
+Dealer's card 2: 5 of Clubs
+
+Dealer's card 3: Ace of Spades
+Dealer's total: 15  
+Dealer's card 4: 8 of Diamonds
+Dealer's total: 23  
+Dealer BUSTED!!!
+You win!
+You've won/tied 5 out of 7 games.
+Play again, Raymond? (y/n)
+y
+
+Dealing...There are now 12 cards in the deck.
+Dealer's card 2: 3 of Clubs
+-----Your cards-----
+Raymond's card 1: Queen of Diamonds
+Raymond's card 2: 4 of Spades
+Raymond's total: 14  
+What will you do, Raymond? 1) Hit 2) Stay
+1
+There are now 11 cards in the deck.
+You drew card 3: 6 of Diamonds
+Raymond's total: 20  
+What will you do, Raymond? 1) Hit 2) Stay
+2
+Dealer's total: 4  or 14
+
+Dealer's turn
+-----Dealer's cards-----
+Dealer's card 1: Ace of Clubs
+Dealer's card 2: 3 of Clubs
+
+Dealer's card 3: 9 of Clubs
+Dealer's total: 13  
+Dealer's card 4: Ace of Hearts
+Dealer's total: 14  
+Dealer's card 5: 2 of Diamonds
+Dealer's total: 16  
+Dealer's card 6: 7 of Hearts
+Dealer's total: 23  
+Dealer BUSTED!!!
+You win!
+You've won/tied 6 out of 8 games.
+Play again, Raymond? (y/n)
+y
+
+Dealing...There are now 3 cards in the deck.
+Dealer's card 2: King of Diamonds
+-----Your cards-----
+Raymond's card 1: 5 of Diamonds
+Raymond's card 2: Queen of Hearts
+Raymond's total: 15  
+What will you do, Raymond? 1) Hit 2) Stay
+1
+There are now 2 cards in the deck.
+You drew card 3: 2 of Clubs
+Raymond's total: 17  
+What will you do, Raymond? 1) Hit 2) Stay
+2
+Dealer's total: 17  
+Dealer's turn
+-----Dealer's cards-----
+Dealer's card 1: 7 of Spades
+Dealer's card 2: King of Diamonds
+Dealer's total: 17  
+Push. It's a tie.
+You've won/tied 7 out of 9 games.
+Play again, Raymond? (y/n)
+y
+We are out of cards. Start a new deck.
+============================================
+
+new-host:hw user$ ruby blackjack2.rb
+Welcome to Blackjack! What's your name?
+Spider-Man         
+
+Dealing...There are now 48 cards in the deck.
+Dealer's card 2: 3 of Hearts
+-----Your cards-----
+Spider-Man's card 1: Jack of Hearts
+Spider-Man's card 2: King of Diamonds
+Spider-Man's total: 20  
+What will you do, Spider-Man? 1) Hit 2) Stay
+2
+Dealer's total: 10  
+Dealer's turn
+-----Dealer's cards-----
+Dealer's card 1: 7 of Spades
+Dealer's card 2: 3 of Hearts
+
+Dealer's card 3: 4 of Diamonds
+Dealer's total: 14  
+Dealer's card 4: 3 of Diamonds
+Dealer's total: 17  Dealer's total: 17  
+You win! No blackjack, but you have more than dealer.
+You've won/tied 1 out of 1 games.
+Play again, Spider-Man? (y/n)
+y
+
+Dealing...There are now 42 cards in the deck.
+Dealer's card 2: Ace of Clubs
+-----Your cards-----
+Spider-Man's card 1: Ace of Diamonds
+Spider-Man's card 2: 2 of Diamonds
+Spider-Man's total: 3  or 13
+
+What will you do, Spider-Man? 1) Hit 2) Stay
+1
+There are now 41 cards in the deck.
+You drew card 3: Queen of Spades
+Spider-Man's total: 13  
+What will you do, Spider-Man? 1) Hit 2) Stay
+1
+There are now 40 cards in the deck.
+You drew card 4: 8 of Diamonds
+Spider-Man's total: 21  
+**** BLACKJACK! Spider-Man WINS! ****
+You've won/tied 2 out of 2 games.
+Play again, Spider-Man? (y/n)
+y
+
+Dealing...There are now 36 cards in the deck.
+Dealer's card 2: 2 of Clubs
+-----Your cards-----
+Spider-Man's card 1: 8 of Spades
+Spider-Man's card 2: Ace of Spades
+Spider-Man's total: 9  or 19
+
+What will you do, Spider-Man? 1) Hit 2) Stay
+2
+Dealer's total: 8  
+Dealer's turn
+-----Dealer's cards-----
+Dealer's card 1: 6 of Hearts
+Dealer's card 2: 2 of Clubs
+
+Dealer's card 3: 9 of Hearts
+Dealer's total: 17  Dealer's total: 17  
+You win! No blackjack, but you have more than dealer.
+You've won/tied 3 out of 3 games.
+Play again, Spider-Man? (y/n)
+y
+
+Dealing...There are now 31 cards in the deck.
+Dealer's card 2: 9 of Diamonds
+-----Your cards-----
+Spider-Man's card 1: King of Hearts
+Spider-Man's card 2: 5 of Hearts
+Spider-Man's total: 15  
+What will you do, Spider-Man? 1) Hit 2) Stay
+1
+There are now 30 cards in the deck.
+You drew card 3: 3 of Spades
+Spider-Man's total: 18  
+What will you do, Spider-Man? 1) Hit 2) Stay
+2
+Dealer's total: 14  
+Dealer's turn
+-----Dealer's cards-----
+Dealer's card 1: 5 of Clubs
+Dealer's card 2: 9 of Diamonds
+
+Dealer's card 3: 7 of Diamonds
+Dealer's total: 21  
+**** BLACKJACK! Dealer WINS! ****
+You've won/tied 3 out of 4 games.
+Play again, Spider-Man? (y/n)
+y
+
+Dealing...There are now 25 cards in the deck.
+Dealer's card 2: 8 of Clubs
+-----Your cards-----
+Spider-Man's card 1: 6 of Spades
+Spider-Man's card 2: Queen of Clubs
+Spider-Man's total: 16  
+What will you do, Spider-Man? 1) Hit 2) Stay
+2
+Dealer's total: 10  
+Dealer's turn
+-----Dealer's cards-----
+Dealer's card 1: 2 of Spades
+Dealer's card 2: 8 of Clubs
+
+Dealer's card 3: King of Clubs
+Dealer's total: 20  Dealer's total: 20  
+Dealer wins! No blackjack, but he has more than you.
+You've won/tied 3 out of 5 games.
+Play again, Spider-Man? (y/n)
+y
+
+Dealing...There are now 20 cards in the deck.
+Dealer's card 2: 2 of Hearts
+-----Your cards-----
+Spider-Man's card 1: Jack of Clubs
+Spider-Man's card 2: King of Spades
+Spider-Man's total: 20  
+What will you do, Spider-Man? 1) Hit 2) Stay
+2
+Dealer's total: 8  
+Dealer's turn
+-----Dealer's cards-----
+Dealer's card 1: 6 of Clubs
+Dealer's card 2: 2 of Hearts
+
+Dealer's card 3: 10 of Clubs
+Dealer's total: 18  Dealer's total: 18  
+You win! No blackjack, but you have more than dealer.
+You've won/tied 4 out of 6 games.
+Play again, Spider-Man? (y/n)
+y
+
+Dealing...There are now 15 cards in the deck.
+Dealer's card 2: 10 of Diamonds
+-----Your cards-----
+Spider-Man's card 1: 5 of Spades
+Spider-Man's card 2: 4 of Hearts
+Spider-Man's total: 9  
+What will you do, Spider-Man? 1) Hit 2) Stay
+1
+There are now 14 cards in the deck.
+You drew card 3: 4 of Clubs
+Spider-Man's total: 13  
+What will you do, Spider-Man? 1) Hit 2) Stay
+1
+There are now 13 cards in the deck.
+You drew card 4: 3 of Clubs
+Spider-Man's total: 16  
+What will you do, Spider-Man? 1) Hit 2) Stay
+2
+Dealer's total: 20  
+Dealer's turn
+-----Dealer's cards-----
+Dealer's card 1: Jack of Spades
+Dealer's card 2: 10 of Diamonds
+
+Dealer wins! No blackjack, but he has more than you.
+You've won/tied 4 out of 7 games.
+Play again, Spider-Man? (y/n)
+y
+
+Dealing...There are now 9 cards in the deck.
+Dealer's card 2: 5 of Diamonds
+-----Your cards-----
+Spider-Man's card 1: Jack of Diamonds
+Spider-Man's card 2: Queen of Hearts
+Spider-Man's total: 20  
+What will you do, Spider-Man? 1) Hit 2) Stay
+2
+Dealer's total: 12  
+Dealer's turn
+-----Dealer's cards-----
+Dealer's card 1: 7 of Hearts
+Dealer's card 2: 5 of Diamonds
+
+Dealer's card 3: 8 of Hearts
+Dealer's total: 20  Dealer's total: 20  
+Push. It's a tie.
+You've won/tied 5 out of 8 games.
+Play again, Spider-Man? (y/n)
+y
+
+Dealing...There are now 4 cards in the deck.
+Dealer's card 2: 10 of Spades
+-----Your cards-----
+Spider-Man's card 1: 10 of Hearts
+Spider-Man's card 2: Ace of Hearts
+Spider-Man's total: 11  or 21
+
+What will you do, Spider-Man? 1) Hit 2) Stay
+2
+
+**** BLACKJACK! Spider-Man WINS! ****
+You've won/tied 6 out of 9 games.
+Play again, Spider-Man? (y/n)
+y
+
+Dealing...There are now 0 cards in the deck.
+Dealer's card 2: 6 of Diamonds
+-----Your cards-----
+Spider-Man's card 1: Queen of Diamonds
+Spider-Man's card 2: 4 of Spades
+Spider-Man's total: 14  
+What will you do, Spider-Man? 1) Hit 2) Stay
+1
+We are out of cards. Start a new deck.
+You've won/tied 6 out of 10 games.
+Play again, Spider-Man? (y/n)
