@@ -5,14 +5,20 @@ name = gets.chomp
 
 def new_deck
   d = Array.new 
-  value = ["Ace", 2, 3, 4, 5, 6, 7, 8, 9, 10, "Jack", "Queen", "King"]
-  suit = ["Clubs", "Diamonds", "Hearts", "Spades"]
+  value = ["Ace", 2, 3, 4, 5, 6, 7, 8, 9, 10, "Jack", "Queen", "King"].shuffle
+  suit = ["Clubs", "Diamonds", "Hearts", "Spades"].shuffle
 
+  d = value.product(suit)  
+  # product() distributively multiplies value and suit arrays together! 
+  # it creates [["Ace", "Clubs"], ["Ace", "Diamonds"], ["Ace", "Hearts"], etc...]
+
+=begin   -----no need to do this!
   suit.each do |s|
     value.each do |v|
       d << [v, s]
     end
   end
+=end
 
   return d.shuffle  # shuffle the deck!
 end

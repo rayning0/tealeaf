@@ -12,6 +12,10 @@ x.each do |i|
 		puts i
 	end
 end
+
+x.each do |i|
+  puts i if i > 5
+end
 =end
 
 puts x.select {|i| i > 5}
@@ -96,6 +100,7 @@ puts
 
 =begin
 My favorite Ruby API source is http://www.ruby-doc.org/
-My favorite Rails API source is http://api.rubyonrails.org/
+My favorite Rails API source is http://api.rubyonrails.org/, http://railsapi.com/
+
 I like both because they are easy to search for classes and methods.
 =end
