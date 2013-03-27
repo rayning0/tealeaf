@@ -8,7 +8,7 @@ def new_deck
   value = ["Ace", 2, 3, 4, 5, 6, 7, 8, 9, 10, "Jack", "Queen", "King"].shuffle
   suit = ["Clubs", "Diamonds", "Hearts", "Spades"].shuffle
 
-  d = value.product(suit)  
+  d = value.product(suit)
   # product() distributively multiplies value and suit arrays together! 
   # it creates [["Ace", "Clubs"], ["Ace", "Diamonds"], ["Ace", "Hearts"], etc...]
 
